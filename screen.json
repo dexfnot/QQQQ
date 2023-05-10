@@ -4,9 +4,9 @@
   "data":[
     {
 
-      "AdmobInterstitial":"apl/vaibhav649apl/gbversion/interstitialinapp",
-      "AdmobBanner":"apl/vaibhav649apl/gbversion/bannerinapp",
-      "AdmobNative" : "apl/vaibhav649apl/gbversion/nativeinapp",
+      "AdmobInterstitial":"/7047,22892900417/apl/vaibhav649apl/gbversion/interstitialinapp",
+      "AdmobBanner":"/7047,22892900417/apl/vaibhav649apl/gbversion/bannerinapp",
+      "AdmobNative" : "/7047,22892900417/apl/vaibhav649apl/gbversion/nativeinapp",
 
       "ApplovinInterstitial":"0a8abb6bc4cf03dcb",
       "ApplovinBanner":"7f10faafd9cea0d4b",
