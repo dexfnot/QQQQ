@@ -5,8 +5,8 @@
     {
 
       "AdmobInterstitial":"/6499/example/interstitial",
-      "AdmobBanner":"	/6499/example/banner",
-      "AdmobNative" : "/6499/example/native",
+      "AdmobBanner":"/6499/example/banner",
+      "AdmobNative":"/6499/example/native",
 
       "ApplovinInterstitial":"0a8bb6bccf03dcb",
       "ApplovinBanner":"7f10fafd9cea04b",
