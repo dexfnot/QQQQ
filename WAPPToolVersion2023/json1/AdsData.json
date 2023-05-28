@@ -4,13 +4,13 @@
   "data":[
     {
 
-      "AdmobInterstitial":"/6499/example/interstitial",
-      "AdmobBanner":"/6499/example/banner",
-      "AdmobNative":"/6499/example/native",
+      "AdmobInterstitial":"	/6499/example/interstitial",
+      "AdmobBanner":"/21833905170,22877764688/Banner_com.gbversion.latest.status.saver.latestversion.whatsversion.gbbversion_banner_DU",
+      "AdmobNative" :"	/6499/example/native",
 
-      "ApplovinInterstitial":"0a8bb6bccf03dcb",
-      "ApplovinBanner":"7f10fafd9cea04b",
-      "ApplovinMrec":"400dac93b0b3c22",
+      "ApplovinInterstitial":"0a8sabb6bc4cf03dcb",
+      "ApplovinBanner":"7f10faafds9cea0d4b",
+      "ApplovinMrec":"400daca93sb0b3c022",
 
       "MaxInterstitial":"",
       "MaxBanner":"",
