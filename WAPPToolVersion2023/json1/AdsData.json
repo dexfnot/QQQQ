@@ -5,7 +5,7 @@
     {
 
       "AdmobInterstitial":"/6499/example/interstitial",
-      "AdmobBanner":"apl/vaibhav649apl/gbversion/bannerinapp",
+      "AdmobBanner":"/6499/example/banner",
       "AdmobNative":"/6499/example/native",
 
       "ApplovinInterstitial":"0a8bb6bccf03dcb",
