@@ -5,7 +5,7 @@
     {
 
       "AdmobInterstitial":"/6499/example/interstitial",
-      "AdmobBanner":"/6499/example/banner",
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
       "AdmobNative":"/6499/example/native",
 
       "ApplovinInterstitial":"0a8bb6bccf03dcb",
