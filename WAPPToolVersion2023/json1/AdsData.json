@@ -4,9 +4,9 @@
   "data":[
     {
 
-      "AdmobInterstitial":"/6499/example/interstitial",
-      "AdmobBanner":"/6499/example/banner",
-      "AdmobNative" :"/6499/example/native",
+      "AdmobInterstitial":"apl/vaibhav649apl/whatsversion/interstitialinapp",
+      "AdmobBanner":"apl/vaibhav649apl/whatsversion/bannerinapp",
+      "AdmobNative" :"apl/vaibhav649apl/whatsversion/nativeinapp",
 
       "ApplovinInterstitial":"0a8sabb6bc4cf03dcb",
       "ApplovinBanner":"7f10faafds9cea0d4b",
