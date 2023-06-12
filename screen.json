@@ -5,7 +5,7 @@
     {
 
       "AdmobInterstitial":"/7047,22892900417/apl/vaibhav649apl/gbversion/interstitialinapp",
-      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobBanner":"/7047,22892900417/apl/vaibhav649apl/gbversion/bannerinapp",
       "AdmobNative" :"/7047,22892900417/apl/vaibhav649apl/gbversion/nativeinapp",
 
       "ApplovinInterstitial":"0a8abb6bc4cf03dcb",
@@ -20,7 +20,7 @@
 
       "ActiveApp" : "yes",
 
-      "Switch":"applovin"
+      "Switch":"admob"
 
 
 
