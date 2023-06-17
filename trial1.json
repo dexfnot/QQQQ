@@ -7,7 +7,7 @@
 		"wortiseBanner": "test-banner",
 		"wortiseInterstitial": "test-interstitial",
 		"wortiserewared": "test-rewarded",
-		"adshow" : true,
+		"adshow" : false,
 		"counter":"30000"
 		
 		
