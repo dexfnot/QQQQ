@@ -36,7 +36,7 @@
       "image":"",
       "inter_ads_type":"google",
       "is_openAds_show":true,
-      "native_ads_type":"google",
+      "native_ads_type":"wortise",
       "open_ads_type":"google",
       "save_hash_tag_native":true,
       "tale_native":true,
